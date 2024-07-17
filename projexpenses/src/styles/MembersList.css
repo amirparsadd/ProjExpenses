@@ -1,0 +1,22 @@
+.members-text {
+  margin: 0;
+  margin-bottom: .25rem;
+}
+
+.creation {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 0.9rem;
+}
+
+.members-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem
+}

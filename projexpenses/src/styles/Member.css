@@ -1,0 +1,53 @@
+.member {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+
+  background-color: aliceblue;
+  padding: .5rem;
+  border-radius: 20px;
+
+  box-shadow: 5px 2px 10px rgb(0, 0, 0, .5);
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column !important;
+}
+
+.input {
+  margin: .25rem;
+  width: 6rem;
+}
+
+.remove-icon {
+  padding: 0;
+  margin: 0;
+}
+
+.remove {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 999px;
+}
+
+.share {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  align-items: left;
+  flex-direction: column;
+}
+
+.share-text {
+  margin: 0;
+}
+
+.share-number {
+  margin: 0;
+  font-weight: bold;
+}

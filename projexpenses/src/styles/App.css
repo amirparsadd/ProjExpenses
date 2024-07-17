@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title-text {
+  margin-bottom: 0.3rem;
+}
+
+.subtitle-text {
+  margin: 0;
+  margin-left: 0.25rem;
+  font-size: 7pt;
+}
+
+.title {
+  margin-bottom: 1rem;
+}

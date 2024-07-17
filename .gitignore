@@ -1,0 +1,24 @@
+# Logs
+projexpenses/logs
+projexpenses/*.log
+projexpenses/npm-debug.log*
+projexpenses/yarn-debug.log*
+projexpenses/yarn-error.log*
+projexpenses/pnpm-debug.log*
+projexpenses/lerna-debug.log*
+
+projexpenses/node_modules
+projexpenses/dist
+projexpenses/dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
